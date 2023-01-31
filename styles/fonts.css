@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Roboto500';
+    src: url('../fonts/Roboto-Medium.woff2') format('woff2'),
+        url('../fonts/Roboto-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto400';
+    src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+        url('../fonts/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delius Unicase';
+    src: url('../fonts/DeliusUnicase-Regular.woff2') format('woff2'),
+        url('../fonts/DeliusUnicase-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
